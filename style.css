@@ -1,7 +1,8 @@
 .body{
     width: 1600px;
     align-items: center;
-    font-family: 'Merriweather', serif;
+    /* font-family: 'Merriweather', serif; */
+    font-family: 'IBM Plex Sans', sans-serif;
 } 
 
 
@@ -39,7 +40,8 @@
     text-align: center;
 }
 .banner2-title{
-    color: #F00;
+    margin-bottom: 40px;
+    color: red;
     text-align: center;
     font-size: 88px;
     font-style: normal;
