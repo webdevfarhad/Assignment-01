@@ -1,0 +1,15 @@
+.main{
+    width: 1600px;
+    height: 7335px;
+    background: #FFF;
+    align-items: center;
+    justify-content: center;
+}
+.banner1{
+    margin: 50px 140px;
+    width: 1320px;
+    height: 600px;
+    border-radius: 16px;
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url(./images/Banner\ Image.png);
+    /* background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%); */
+}
