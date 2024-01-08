@@ -67,3 +67,21 @@
     border-radius: 16px;
     background: rgba(255, 0, 0, 0.05);
 }
+.email-input{
+    width: 200px;
+    height: 20px;
+    background-color: red;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    position: relative;
+    
+}
+.email{
+    border-style: none;
+}
+.subscribe{
+    margin-left: -10px;
+    border-color: red;
+    border-style: none;
+}
