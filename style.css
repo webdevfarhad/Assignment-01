@@ -111,9 +111,31 @@
     align-items: center;
 }
 .banner4{
+    margin: 100px auto;
     width: 1320px;
     height: 482px;
-    background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);;
+    background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    text-align: center;
+    line-height: 55px;
+}
+.bann4-text-sec{
+    width: 549px;
+    height: 168px;
+    padding: 100px 386px 140px 385px;
+    font-size: 32px;
+    font-weight: 500;
+}
+.bann4-btn{;
+    color: white;
+    width: 167px;
+    height: 56px;
+    background-color: #F00;
+    border-style: none;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.courtesy{
+    color: #F00;
 }
 .banner5{
     height: 482px;
