@@ -239,13 +239,16 @@
 .img-row>img{
     margin: 5px 5px ;
 }
+.img-row>img:hover{
+    transform: scale(1.1);
+}
 .banner8{
     margin: 100px auto;
     width: 1320px;
     height: 616px;
     border-radius: 16px;
     background: rgba(255, 0, 0, 0.05);
-    align-items: center;
+    align-items: right;
     
 }
 .email-input{
