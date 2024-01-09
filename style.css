@@ -1,5 +1,6 @@
 .body{
     width: 1600px;
+    height: 7335px;
     align-items: center;
     /* font-family: 'Merriweather', serif; */
     font-family: 'IBM Plex Sans', sans-serif;
@@ -190,7 +191,7 @@
 .bann5-desc2{
     margin: -25px 0px 40px 0px;
     color: gray;
-    word-spacing: 5px ;
+    word-spacing: 5px;
     line-height: 1.5;
 }
 /* .banner6{
@@ -211,14 +212,41 @@
     
 } */
 .banner7{
+    margin: 100px auto;
+    font-family: Merriweather;
+    margin: 100px auto;
     width: 1320px;
     height: 1163px;
 } 
+.bann7-title{
+     font-size: 40px;
+     font-weight: bolder;
+}
+.bann7-subtitle{
+    font-size: 25px;
+    color: red;
+}
+.bann7-desc{
+    color: gray;
+    word-spacing: 5px;
+    line-height: 1.5;
+}
+.bann7-text-sec{
+    text-align: left;
+    width: 840px;
+    margin-bottom: 50px;
+}
+.img-row>img{
+    margin: 5px 5px ;
+}
 .banner8{
+    margin: 100px auto;
     width: 1320px;
     height: 616px;
     border-radius: 16px;
     background: rgba(255, 0, 0, 0.05);
+    align-items: center;
+    
 }
 .email-input{
     width: 200px;
@@ -240,7 +268,8 @@
 }
 
 .footer{
-    width: 1600px;
+    margin-top: 100px auto;
+    width: 1320px;
     height: 609px;
     background-color: black;
 }
